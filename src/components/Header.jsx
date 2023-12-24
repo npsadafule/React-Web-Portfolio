@@ -55,7 +55,7 @@ const Header = () => {
     >
       <Box color="white" maxWidth="1280px" margin="0 auto">
         <HStack
-          px={16}
+          //px={1}
           py={4}
           justifyContent="space-between"
           alignItems="center"
@@ -72,7 +72,9 @@ const Header = () => {
           <nav>
             <HStack spacing={8}>
               <a href="/#projects-section" onClick={()=>handleClick("projects")}>Projects</a>
+              <a href="/#photography-section" onClick={()=>handleClick("photography")}>Photography</a>
               <a href="/#contactme-section" onClick={()=>handleClick("contactme")}>Contact Me</a>
+              
             </HStack>
           </nav>
         </HStack>
