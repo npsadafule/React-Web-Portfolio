@@ -20,8 +20,9 @@ To run this project locally, follow these steps:
 1. Clone the repository.
 2. Navigate to the project directory in your terminal.
 3. Run `npm install` to install dependencies.
-4. Run `npm start` to start the development server.
-5. Open your browser and go to `http://localhost:3000` to view the portfolio.
+4. Run `npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion` to install dependencies.
+5. Run `npm start` to start the development server.
+6. Open your browser and go to `http://localhost:3000` to view the portfolio.
 
 ## Technologies Used
 
@@ -36,17 +37,11 @@ To run this project locally, follow these steps:
 
 ## Credits
 
-- This project was created as part of [mention the course or program where applicable].
-- Special thanks to [anyone you want to credit for code snippets, inspiration, etc.].
-
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE](LICENSE) file for details.
+- This project was created as part of Meta Front-End Developer Professional Certification.
 
 ## Contact
 
 If you have any questions or suggestions about the project, feel free to reach out to me:
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
+- Email: neel.sadafule13@gmail.com
+- LinkedIn: linkedin/npsadafule
 
