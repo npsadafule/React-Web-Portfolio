@@ -31,9 +31,9 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Screenshot of Landing Section](/screenshots/landing.png)
-![Screenshot of Projects Section](/screenshots/projects.png)
-![Screenshot of Contact Me Section](/screenshots/contact.png)
+![Screenshot of Landing Section](./screenshots/ss1.png)
+![Screenshot of Projects Section](./screenshots/ss2.png)
+![Screenshot of Contact Me Section](./screenshots/ss3.png)
 
 ## Credits
 
