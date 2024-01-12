@@ -7,8 +7,12 @@ import Footer from "./components/Footer";
 import { AlertProvider } from "./context/alertContext";
 import Alert from "./components/Alert";
 import PhotoSection from "./components/PhotographySection";
+import { useEffect } from "react";
 
 function App() {
+  useEffect(() => {
+    document.title = "Neel Sadafule";
+  }, []);
   return (
     <ChakraProvider>
       <AlertProvider>
